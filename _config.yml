@@ -3,10 +3,10 @@ title: 潘柏信
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: sillygirl-jiao
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+url: "https://sillygirl-jiao.github.io"
 
 # Comment
 comment:
@@ -16,20 +16,14 @@ comment:
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: sillygirl-jiao
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 1621618935@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+    id: 8418514c57ba672a2d2d0c20c6774358  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
